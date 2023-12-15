@@ -3,12 +3,12 @@
 
 title: Digital Portfolio
 author: Alex Do
-logo: ../AlexDo-files/profile-picture.png
+logo: profile-picture.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
-  execute_notebooks: "force"
+  execute_notebooks: force
 
 # Define the name of the latex output file for PDF builds
 latex:
