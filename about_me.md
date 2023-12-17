@@ -10,7 +10,7 @@ Throughout my career, I have been driven by a passion for uncovering insights an
 
 I am always looking for new challenges and opportunities to apply my skills and expertise to solve complex business problems.
 
-``` {warning}
+```{warning}
 As a skilled practitioner of supervised and unsupervised machine learning techniques, I am confident in my ability to deliver measurable results through data cleaning, feature engineering, and model selection. 
 ```
 
